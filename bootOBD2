@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#sudo rfcomm connect 9 00:1D:A5:68:98:8C 1
+sudo rfcomm connect 9 AA:BB:CC:11:22:33 1
+
